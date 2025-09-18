@@ -1,0 +1,22 @@
+{
+    "halls": [
+        {"code": "101", "name": "Sher-e Bangla Fazlul Haque Hall"},
+        {"code": "102", "name": "Shah Makhdum Hall"},
+        {"code": "103", "name": "Nawab Abdul Latif Hall"},
+        {"code": "104", "name": "Syed Amer Ali Hall"},
+        {"code": "105", "name": "Shaheed Shamsuzzoha Hall"},
+        {"code": "106", "name": "Shaheed Habibur Rahman Hall"},
+        {"code": "107", "name": "Matihar Hall"},
+        {"code": "108", "name": "Madar Bux Hall"},
+        {"code": "109", "name": "Shaheed Suhrawardy Hall"},
+        {"code": "110", "name": "Shaheed Ziaur Rahman Hall"},
+        {"code": "111", "name": "Bangabandhu Sheikh Mujibur Rahman Hall"},
+        {"code": "120", "name": "Mannujan Hall"},
+        {"code": "121", "name": "Rokeya Hall"},
+        {"code": "122", "name": "Taposhi Rabeya Hall"},
+        {"code": "123", "name": "Begum Khaleda Zia Hall"},
+        {"code": "124", "name": "Rahamatunnesa Hall"},
+        {"code": "130", "name": "Shaheed Mir Abdul Quayyum International Dormitory"},
+        {"code": "131", "name": "IBS Dormitory"}
+    ]
+}
